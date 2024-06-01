@@ -10,5 +10,5 @@ Project Description:
 
   The another folder (bootloader App) is Test Project Code to test the self programming concept.
   
-
+More Details in Linkedin post >> https://www.linkedin.com/posts/mahmoud-sakr-333b48195_hellow-friends-embedded-systems-activity-7202462537047511040-xZ5-?utm_source=share&utm_medium=member_desktop
   
